@@ -32,7 +32,7 @@ Detect the existence of the corresponding bit, then encode the image, you can ac
 
 ## Setup
 ```
-git clone https://github.com/jiweibo/SSOCR.git
+git clone https://github.com/ravikirants3005/SSOCR.git
 python ssocr.py images/test1.bmp -s
 ```
 
